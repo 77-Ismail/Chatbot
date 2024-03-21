@@ -24,6 +24,6 @@ tuple1 = ('Ismail', '2528', 'Islamabad')
 # c={'a':10, 'b':1, 'c':20}
 # print(sorted([(v,k) for k,v in c.items()]))
 
-x = { 'chuck' : 1 , 'fred' : 42, 'jan': 100}
-y = x.items()
-print(tuple1[1])
+#x = { 'chuck' : 1 , 'fred' : 42, 'jan': 100}
+#y = x.items()
+#print(tuple1[1])
